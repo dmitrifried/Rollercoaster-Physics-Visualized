@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rollercoaster-Physics-Visualized/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Rollercoaster-Physics-Visualized/static/js/main.5a10a5d7.chunk.js",
+    "main.js.map": "/Rollercoaster-Physics-Visualized/static/js/main.5a10a5d7.chunk.js.map",
+    "runtime-main.js": "/Rollercoaster-Physics-Visualized/static/js/runtime-main.460101b6.js",
+    "runtime-main.js.map": "/Rollercoaster-Physics-Visualized/static/js/runtime-main.460101b6.js.map",
+    "static/js/2.e3ba315c.chunk.js": "/Rollercoaster-Physics-Visualized/static/js/2.e3ba315c.chunk.js",
+    "static/js/2.e3ba315c.chunk.js.map": "/Rollercoaster-Physics-Visualized/static/js/2.e3ba315c.chunk.js.map",
+    "index.html": "/Rollercoaster-Physics-Visualized/index.html",
+    "precache-manifest.58db3b1bb20c167f385d3e1fda13636f.js": "/Rollercoaster-Physics-Visualized/precache-manifest.58db3b1bb20c167f385d3e1fda13636f.js",
+    "service-worker.js": "/Rollercoaster-Physics-Visualized/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Rollercoaster-Physics-Visualized/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e3ba315c.chunk.js.LICENSE.txt": "/Rollercoaster-Physics-Visualized/static/js/2.e3ba315c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460101b6.js",
+    "static/js/2.e3ba315c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5a10a5d7.chunk.js"
+  ]
+}
